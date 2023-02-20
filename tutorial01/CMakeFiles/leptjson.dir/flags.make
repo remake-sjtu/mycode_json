@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = 
 
-C_FLAGS =  -ansi -pedantic -Wall
+C_FLAGS =  -ansi -pedantic -Wall -g
 
